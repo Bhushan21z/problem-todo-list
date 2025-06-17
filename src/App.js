@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 function App() {
   return (
     <div>
-      <h1>Todo App</h1>
+      <h1>E-Commerce</h1>
     </div>
   );
 }
